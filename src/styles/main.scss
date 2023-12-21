@@ -1,27 +1,6 @@
-$color_1: #838383;
-$color_2: #9197B3;
-$color_3: #fff;
-$color_4: #757575;
-$color_5: #16C098;
-$color_6: #7e7e7e;
-$color_7: #B5B7C0;
-$color_8: #292D32;
-$color_9: black;
-$color_10: white;
-$color_11: #008767;
-$color_12: #DF0404;
-$color_13: #404B52;
-$font-family_1: 'Poppins', sans-serif;
-$background-color_1: #5932EA;
-$background-color_2: #f8faff;
-$background-color_3: #fff;
-$background-color_4: #f9fbff;
-$background-color_5: #f5f5f5;
-
 @import "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap";
-
 * {
-	font-family: $font-family_1;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 500;
 	font-size: 14px;
 	margin: 0;
@@ -40,7 +19,7 @@ h1 {
 	margin: 0;
 }
 #main_logo {
-	margin: 36px auto 54px 28px;
+	margin: 40px auto 54px 28px;
 	display: flex;
 	align-items: baseline;
 	img {
@@ -54,13 +33,13 @@ img {
 p {
 	font-size: 10px;
 	padding: 2px;
-	color: $color_1;
+	color: #838383;
 	letter-spacing: -0.1px;
 	margin: 0;
 }
 .iconsax {
 	font-size: 24px;
-	color: $color_2;
+	color: #9197B3;
 	margin-right: 14px;
 }
 .arrow {
@@ -81,14 +60,14 @@ ul {
 	}
 }
 li.active {
-	background-color: $background-color_1;
+	background-color: #5932EA;
 	border-radius: 8px;
-	color: $color_3;
+	color: #fff;
 	transition: background-color 0.8s ease;
 }
 .aside-item.active {
 	i {
-		color: $color_3;
+		color: #fff;
 		transition: color 0.4s ease;
 	}
 }
@@ -111,21 +90,22 @@ li.active {
 }
 .user_position {
 	letter-spacing: 0.12px;
-	color: $color_4;
+	color: #757575;
 	padding: 0;
 	font-weight: 400;
 }
 #wrapper {
-	width: 70%;
-	background-color: $background-color_2;
+	width: 100%;
+	height: 150%;
+	background-color: #f8faff;
 	padding: 0px 95px 300px 71px;
 }
 .iconsax.hamburger{
-  display: none;
+	display: none;
 }
 #product_container {
 	border-radius: 30px;
-	background-color: $background-color_3;
+	background-color: #fff;
 	margin-top: 20px;
 }
 .heading_container {
@@ -143,7 +123,7 @@ li.active {
 	margin-top: 41px;
 }
 .toggle_active {
-	color: $color_5;
+	color: #16C098;
 	margin-top: 7px;
 	letter-spacing: -0.14px;
 	font-weight: 400;
@@ -152,23 +132,23 @@ li.active {
 .search-container {
 	display: flex;
 	align-items: center;
-	background-color: $background-color_4;
+	background-color: #f9fbff;
 	border-radius: 10px;
 	margin-left: auto;
 	padding: 8px 6px;
 	width: 216px;
 }
 .search-icon {
-	color: $color_6;
+	color: #7e7e7e;
 }
 .search-input {
 	border: none;
 	outline: none;
-	background-color: $background-color_4;
+	background-color: #f9fbff;
 	width: 100%;
 	font-size: 14px;
 	&::placeholder {
-		color: $color_7;
+		color: #B5B7C0;
 	}
 }
 .custom-table {
@@ -179,7 +159,7 @@ li.active {
 		border-bottom: 1px solid #eee;
 		padding: 14px 0px;
 		text-align: left;
-		color: $color_7;
+		color: #B5B7C0;
 	}
 	td {
 		border-bottom: 1px solid #eee;
@@ -188,11 +168,11 @@ li.active {
 	}
 	tr {
 		margin: 0 40px;
-		color: $color_8;
+		color: #292D32;
 	}
 	a {
 		text-decoration: none;
-		color: $color_9;
+		color: black;
 	}
 }
 .email-column {
@@ -207,19 +187,19 @@ th {
 	}
 }
 .status-info {
-	color: $color_10;
+	color: white;
 	text-align: center;
 	letter-spacing: -0.14px;
 	border-radius: 4px;
 	padding: 4px 0px;
 }
 .status-active {
-	color: $color_11;
+	color: #008767;
 	border: 1px solid #00B087;
 	background: rgba(22, 192, 152, 0.38);
 }
 .status-inactive {
-	color: $color_12;
+	color: #DF0404;
 	border: 1px solid #DF0404;
 	background: #FFC5C5;
 }
@@ -230,7 +210,7 @@ th {
 }
 #data-info {
 	font-size: 14px;
-	color: $color_7;
+	color: #B5B7C0;
 	letter-spacing: -0.14px;
 }
 #navigation {
@@ -240,9 +220,9 @@ th {
 	display: flex;
 }
 .data-menu-item {
-	background-color: $background-color_5;
+	background-color: #f5f5f5;
 	border-radius: 4px;
-	color: $color_13;
+	color: #404B52;
 	padding: 5px 2px 4px 2px;
 	width: 24px;
 	font-size: 12px;
@@ -263,6 +243,7 @@ th {
 	}
 	#wrapper {
 		padding: 0px 28px 100px 28px;
+		height: 150%;
 	}
 	table {
 		* {
@@ -272,13 +253,17 @@ th {
 	#data-info {
 		font-size: 11px;
 	}
+	#main_logo {
+		margin: 42px 16px 36px 16px;
+		
+	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	aside {
 		width: 24%;
 	}
 	#main_logo {
-		margin: 36px 16px 36px 16px;
+		margin: 42px 16px 36px 16px;
 		img {
 			width: 25px;
 			height: 25px;
@@ -308,6 +293,7 @@ th {
 		padding: 0px 0px 16px 16px;
 	}
 	#wrapper {
+		height: 150%;
 		padding: 0px 16px 50px 16px;
 	}
 	.heading_container {
@@ -362,6 +348,7 @@ th {
 		}
 	}
 	#wrapper {
+		height: 150%;
 		width: 120%;
 		padding: 0px 16px 50px 16px;
 		margin-left: 0;
@@ -420,6 +407,6 @@ th {
 	}
 	.iconsax.hamburger {
 		transition: all 1s ease-in-out;
-    display: inline-block;
+		display: inline-block;
 	}
 }
