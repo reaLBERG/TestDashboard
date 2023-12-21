@@ -1,0 +1,484 @@
+{
+  "people": [
+    {
+      "name": "Rex Morris",
+      "company": "Apple Inc.",
+      "phone": "(305) 981-3908",
+      "email": "o@outlook.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Quintyn Morris",
+      "company": "Microsoft Corporation",
+      "phone": "(054) 636-8598",
+      "email": "hr6zdl@yandex.ru",
+      "country": "Russia",
+      "status": "Active"
+    },
+    {
+      "name": "Xiomar Foster",
+      "company": "Google LLC",
+      "phone": "(182) 574-2058",
+      "email": "kaft93x@outlook.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Oscar Kelly",
+      "company": "Amazon.com Inc.",
+      "phone": "(589) 628-7088",
+      "email": "dcu@yandex.ru",
+      "country": "Russia",
+      "status": "Inactive"
+    },
+    {
+      "name": "Malcolm Sanders",
+      "company": "Facebook, Inc.",
+      "phone": "(949) 245-1779",
+      "email": "19dn@outlook.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Romeo Coleman",
+      "company": "Tesla, Inc.",
+      "phone": "(373) 671-5863",
+      "email": "pa5h@mail.ru",
+      "country": "Russia",
+      "status": "Active"
+    },
+    {
+      "name": "Xenophon Perry",
+      "company": "IBM Corporation",
+      "phone": "(350) 591-4300",
+      "email": "281av0@gmail.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Maverick Smith",
+      "company": "Johnson & Johnson",
+      "phone": "(569) 374-7403",
+      "email": "8edmfh@outlook.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Angelo Kelly",
+      "company": "Procter & Gamble Co.",
+      "phone": "(282) 817-1732",
+      "email": "sfn13i@mail.ru",
+      "country": "Russia",
+      "status": "Active"
+    },
+    {
+      "name": "Grey Taylor",
+      "company": "Coca-Cola Company",
+      "phone": "(825) 664-2210",
+      "email": "g0orc3x1@outlook.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Jeremiah Edwards",
+      "company": "General Electric Company",
+      "phone": "(580) 215-5345",
+      "email": "rv7bp@gmail.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Adriel Bell",
+      "company": "Exxon Mobil Corporation",
+      "phone": "(633) 376-7692",
+      "email": "93@outlook.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Adam Ward",
+      "company": "Toyota Motor Corporation",
+      "phone": "(519) 816-9617",
+      "email": "er@gmail.com",
+      "country": "Japan",
+      "status": "Active"
+    },
+    {
+      "name": "Archer Gonzalez",
+      "company": "Samsung Electronics Co., Ltd.",
+      "phone": "(308) 231-4948",
+      "email": "o0my@gmail.com",
+      "country": "South Korea",
+      "status": "Active"
+    },
+    {
+      "name": "Perseus Johnson",
+      "company": "Nike, Inc.",
+      "phone": "(150) 438-0238",
+      "email": "715qy08@gmail.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Sterling Brooks",
+      "company": "Apple Inc.",
+      "phone": "(970) 585-5641",
+      "email": "vubx0t@mail.ru",
+      "country": "Russia",
+      "status": "Active"
+    },
+    {
+      "name": "Ibraheem Peterson",
+      "company": "Microsoft Corporation",
+      "phone": "(823) 118-7262",
+      "email": "wnhborq@outlook.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Bryant Flores",
+      "company": "Google LLC",
+      "phone": "(428) 128-9394",
+      "email": "gq@yandex.ru",
+      "country": "Russia",
+      "status": "Active"
+    },
+    {
+      "name": "Ximenez Thomas",
+      "company": "Amazon.com Inc.",
+      "phone": "(405) 917-7406",
+      "email": "ic0pu@outlook.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Isaiah Thomas",
+      "company": "Facebook, Inc.",
+      "phone": "(273) 906-1614",
+      "email": "o7khr@yandex.ru",
+      "country": "Russia",
+      "status": "Active"
+    },
+    {
+      "name": "Vander Sanders",
+      "company": "Tesla, Inc.",
+      "phone": "(367) 734-0960",
+      "email": "f@outlook.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Waylon Perez",
+      "company": "IBM Corporation",
+      "phone": "(040) 305-3279",
+      "email": "gjkhp@mail.ru",
+      "country": "Russia",
+      "status": "Inactive"
+    },
+    {
+      "name": "Ben Patterson",
+      "company": "Johnson & Johnson",
+      "phone": "(798) 481-1957",
+      "email": "wyalkxfde@gmail.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Otto Wood",
+      "company": "Procter & Gamble Co.",
+      "phone": "(210) 074-2785",
+      "email": "f245n@outlook.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Yash Green",
+      "company": "Coca-Cola Company",
+      "phone": "(907) 284-7545",
+      "email": "warner@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Warner Walker",
+      "company": "General Electric Company",
+      "phone": "(846) 038-7918",
+      "email": "xathieur@outlook.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Xathieur Foster",
+      "company": "Exxon Mobil Corporation",
+      "phone": "(485) 915-7677",
+      "email": "xeno@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Xeno Jones",
+      "company": "Toyota Motor Corporation",
+      "phone": "(295) 013-2975",
+      "email": "griffin@example.com",
+      "country": "Japan",
+      "status": "Inactive"
+    },
+    {
+      "name": "Griffin Alexander",
+      "company": "Samsung Electronics Co., Ltd.",
+      "phone": "(045) 956-0057",
+      "email": "shepherd@example.com",
+      "country": "South Korea",
+      "status": "Active"
+    },
+    {
+      "name": "Shepherd Peterson",
+      "company": "Nike, Inc.",
+      "phone": "(727) 512-5682",
+      "email": "alexander@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Alexander James",
+      "company": "Apple Inc.",
+      "phone": "(950) 593-9735",
+      "email": "uriah@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Uriah Lewis",
+      "company": "Microsoft Corporation",
+      "phone": "(360) 574-3148",
+      "email": "quinto@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Quinto Wood",
+      "company": "Google LLC",
+      "phone": "(632) 557-4184",
+      "email": "kingston@example.com",
+      "country": "Russia",
+      "status": "Active"
+    },
+    {
+      "name": "Kingston Lewis",
+      "company": "Amazon.com Inc.",
+      "phone": "(348) 218-7547",
+      "email": "brayden@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Brayden Hayes",
+      "company": "Facebook, Inc.",
+      "phone": "(040) 642-9159",
+      "email": "brandon@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Brandon Simmons",
+      "company": "Tesla, Inc.",
+      "phone": "(171) 567-8052",
+      "email": "raiden@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Raiden Phillips",
+      "company": "IBM Corporation",
+      "phone": "(710) 579-6290",
+      "email": "yisrael@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Yisrael Jackson",
+      "company": "Johnson & Johnson",
+      "phone": "(437) 620-3338",
+      "email": "simon@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Simon Flores",
+      "company": "Procter & Gamble Co.",
+      "phone": "(173) 794-4156",
+      "email": "victor@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Victor Martin",
+      "company": "Coca-Cola Company",
+      "phone": "(353) 440-7166",
+      "email": "marcos@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Marcos Bell",
+      "company": "General Electric Company",
+      "phone": "(972) 132-9498",
+      "email": "fredrick@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Fredrick Cox",
+      "company": "Exxon Mobil Corporation",
+      "phone": "(394) 750-3157",
+      "email": "uria@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Uria Rodriguez",
+      "company": "Toyota Motor Corporation",
+      "phone": "(292) 977-6006",
+      "email": "jasper@example.com",
+      "country": "Japan",
+      "status": "Active"
+    },
+    {
+      "name": "Jasper Price",
+      "company": "Samsung Electronics Co., Ltd.",
+      "phone": "(386) 779-6190",
+      "email": "harper@example.com",
+      "country": "South Korea",
+      "status": "Inactive"
+    },
+    {
+      "name": "Harper Ramirez",
+      "company": "Nike, Inc.",
+      "phone": "(686) 718-2905",
+      "email": "vander@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Vander Sanders",
+      "company": "Tesla, Inc.",
+      "phone": "(844) 038-7918",
+      "email": "waylon@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Waylon Perez",
+      "company": "IBM Corporation",
+      "phone": "(488) 915-7677",
+      "email": "ben@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Ben Patterson",
+      "company": "Johnson & Johnson",
+      "phone": "(295) 013-2975",
+      "email": "otto@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Otto Wood",
+      "company": "Procter & Gamble Co.",
+      "phone": "(044) 956-0057",
+      "email": "yash@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Yash Green",
+      "company": "Coca-Cola Company",
+      "phone": "(727) 512-5682",
+      "email": "warner@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Warner Walker",
+      "company": "General Electric Company",
+      "phone": "(950) 593-9735",
+      "email": "xathieur@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Xathieur Foster",
+      "company": "Exxon Mobil Corporation",
+      "phone": "(360) 574-3148",
+      "email": "xeno@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Xeno Jones",
+      "company": "Toyota Motor Corporation",
+      "phone": "(634) 557-4184",
+      "email": "griffin@example.com",
+      "country": "Japan",
+      "status": "Active"
+    },
+    {
+      "name": "Griffin Alexander",
+      "company": "Samsung Electronics Co., Ltd.",
+      "phone": "(348) 218-7547",
+      "email": "shepherd@example.com",
+      "country": "South Korea",
+      "status": "Inactive"
+    },
+    {
+      "name": "Shepherd Peterson",
+      "company": "Nike, Inc.",
+      "phone": "(040) 642-9159",
+      "email": "alexander@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Alexander James",
+      "company": "Apple Inc.",
+      "phone": "(171) 567-8052",
+      "email": "uriah@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    },
+    {
+      "name": "Uriah Lewis",
+      "company": "Microsoft Corporation",
+      "phone": "(710) 579-6290",
+      "email": "quinto@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Quinto Wood",
+      "company": "Google LLC",
+      "phone": "(437) 620-3338",
+      "email": "kingston@example.com",
+      "country": "Russia",
+      "status": "Inactive"
+    },
+    {
+      "name": "Kingston Lewis",
+      "company": "Amazon.com Inc.",
+      "phone": "(040) 642-9159",
+      "email": "brayden@example.com",
+      "country": "USA",
+      "status": "Active"
+    },
+    {
+      "name": "Brayden Hayes",
+      "company": "Facebook, Inc.",
+      "phone": "(171) 567-8052",
+      "email": "brandon@example.com",
+      "country": "USA",
+      "status": "Inactive"
+    }
+  ]
+}
